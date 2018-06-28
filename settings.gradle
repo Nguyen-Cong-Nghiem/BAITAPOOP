@@ -1,0 +1,3 @@
+rootProject.name = 'Bai-tap-doi-tuong'
+include 'src'
+

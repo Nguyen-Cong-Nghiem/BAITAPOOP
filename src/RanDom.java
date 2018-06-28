@@ -1,4 +1,5 @@
 import java.util.Random;
+
 public class RanDom {
     Random rd = new Random();
 //    int nunmber = rd.nextInt(200);
